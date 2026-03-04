@@ -1,0 +1,8 @@
+[build]
+  publish = "build/web"
+
+# Flutter web (go_router) SPA: tüm path'ler index.html'e yönlensin
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200

@@ -1,4 +1,5 @@
 [build]
+  command = "bash netlify-build.sh"
   publish = "build/web"
 
 # Flutter web (go_router) SPA: tüm path'ler index.html'e yönlensin

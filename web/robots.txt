@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://kutahyasanayirehberi.netlify.app/sitemap.xml
